@@ -1,3 +1,4 @@
+Sümeyye Sıla Altay 231101077 
 Yacc Dosyası için:
 	İlk kısım standart headers ve function declarations içeren bir C kod parçası.
 	Daha sonra token'larımı declare ediyorum. 
